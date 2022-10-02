@@ -2,10 +2,13 @@
 
 ## Table of Contents
 
-- [About Me](#About Me (*very short version*))
-  - [Me as a programmer (short summary)](#Me as a programmer (*the short story*))
-  - [Me as a programmer (long history)](#Me as a programmer (*the long story*))
-  - [Me as a person](#Me as a person (the longer version))
+- [Kenny Nguyen's User Page](#kenny-nguyens-user-page)
+  - [Table of Contents](#table-of-contents)
+  - [About Me (*very short version*)](#about-me-very-short-version)
+  - [Me as a Programmer](#me-as-a-programmer)
+    - [A short summary on me as a programmer](#a-short-summary-on-me-as-a-programmer)
+    - [The long story about my path to becoming a programmer](#the-long-story-about-my-path-to-becoming-a-programmer)
+    - [Me as a person (*the longer version*)](#me-as-a-person-the-longer-version)
 
 ## About Me (*very short version*)
 
@@ -16,7 +19,9 @@ I am a **Chemistry** Major with a minor in **Computer Science**.
 I am interested in analytical and computational chemistry.
 I also enjoy doing small coding projects for fun.
 
-### Me as a programmer (*the short story*)
+## Me as a Programmer
+
+### A short summary on me as a programmer
 
 I like to program small-scale programs, but I am willing to work on any kind of project that seems interesting.
 I am comfortable in programming in Java, but I have also used C, C++, and Python.
@@ -27,7 +32,7 @@ I don't have a lot of experience in developing programs for other people and wor
 I believe that although I am not the strongest coder, I am very good at learning new concepts and can adapt quickly to situations.
 I also enjoy throroughly documenting my projects and ensuring that my code is clean and accessible.
 
-### Me as a programmer (*the long story*)
+### The long story about my path to becoming a programmer
 
 I first took interest in programming in elementary school with our school's 5th grade LEGO Mindstorms Robotics unit.
 We programmed our robots to do various tasks such as travel around a planter box and move from point to point.
@@ -58,9 +63,10 @@ Some of these projects include:
 Through these projects and Computer Science coursework, I became interested in not only creating programs, but also how computers and programs work on a deeper level.
 As a result, I was torn between studying Chemistry or Computer Science in college.
 In the end, I applied to have Computer Science as a minor in my second year at UCSD and have taken various courses that have developed my knowledge and introduced me to various tools that I use to develop my personal products.
+
 In the future, I would be satisfied in having a career in either Chemistry or Computer Science, but my ultimate goal is to find work that bridges the two together. As such, I have taken interest in Computational Chemistry.
 
-### Me as a person (the longer version)
+### Me as a person (*the longer version*)
 
 I would say that I am reserved person, but willing to come out with the right people.
 
@@ -101,20 +107,21 @@ Some of my hobbies include:
   - I love rollercoasters and enjoy boating!
   - I am willing to try many new things! Life is boring without excitement!
   - One goal I have for the future is to visit all of the New 7 Wonders of the World. Here is my progress:
-    - [] Great Wall of China
+    - [ ] Great Wall of China
     - [X] Chichén Itzá
-    - [] Petra
-    - [] Machu Picchu
-    - [] Christ the Redeemer
-    - [] Colosseum
-    - [] Taj Mahal
-    - [] \(Optional) Giza Pyramids
+    - [ ] Petra
+    - [ ] Machu Picchu
+    - [ ] Christ the Redeemer
+    - [ ] Colosseum
+    - [ ] Taj Mahal
+    - [ ] \(Optional) Giza Pyramids
 
 My go-to default color is `#33DD66`.
 
 I also enjoy listening to Clasical music, '70s and '80s Pop, and Classic rock.
 
 The Mantis Shrimp is my faovrite animal!
+
 ![Mantis Shrimp](Mantis%20Shrimp.png)
 
 Finally, here is a collection of some funny images:
