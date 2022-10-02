@@ -98,7 +98,7 @@ Some of my hobbies include:
 - Gunpla
   - Just started getting into this hobby!
   - The latest set I bought:
-  - ![MG RX-78-2 Ver. Ka](https://static.wikia.nocookie.net/gunplabuilders/images/e/e9/MG-RX-78-2-Gundam-Ver.Ka-boxart.jpg/revision/latest?cb=20171118083722)
+  - ![MG RX-78-2 Ver. Ka](MG%20RX-78-2%20Ver%20Ka.png)
 - History
   - I enjoy learning about history and making connections between the past, present, and future.
   - I am most interested in Chinese and early-modern European history.
