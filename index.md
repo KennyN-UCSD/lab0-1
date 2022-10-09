@@ -12,7 +12,7 @@
 
 ## About Me (*very short version*)
 
-Hi, my name is *Kenny Nguyen**.
+Hi, my name is **Kenny Nguyen**.
 I'm a 4th-year undergraduate student at the *University of California, San Diego*.
 I am a **Chemistry** Major with a minor in **Computer Science**.
 
